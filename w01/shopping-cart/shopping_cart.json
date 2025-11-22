@@ -1,0 +1,24 @@
+{
+    "Items": {
+        "SIDUPU": {
+            "name": "Apple",
+            "type": "Fruit",
+            "price": 1.0
+        },
+        "CYFRFL": {
+            "name": "Banana",
+            "type": "Fruit",
+            "price": 2.0
+        },
+        "UCLBKF": {
+            "name": "Cherry",
+            "type": "Fruit",
+            "price": 3.0
+        },
+        "DXTVBM": {
+            "name": "Onion",
+            "type": "Vegetable",
+            "price": 5.0
+        }
+    }
+}

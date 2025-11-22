@@ -1,0 +1,14 @@
+{
+    "Items": {
+        "QFBYEI": {
+            "name": "Apple",
+            "type": "Fruit",
+            "price": 1.0
+        },
+        "JKGAJP": {
+            "name": "Pineapple",
+            "type": "Fruit",
+            "price": 2.0
+        }
+    }
+}
