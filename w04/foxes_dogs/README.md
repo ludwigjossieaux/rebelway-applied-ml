@@ -1,0 +1,1 @@
+download dogs and foxes from : https://www.kaggle.com/datasets/snmahsa/animal-image-dataset-cats-dogs-and-foxes
