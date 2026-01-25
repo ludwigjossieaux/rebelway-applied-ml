@@ -1,0 +1,1 @@
+pip install gym_super_mario_bros

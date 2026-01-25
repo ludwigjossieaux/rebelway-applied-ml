@@ -1,0 +1,5 @@
+models/
+runs/
+Training/
+videos/
+wandb/
