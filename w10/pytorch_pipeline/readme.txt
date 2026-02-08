@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/omkarmanohardalvi/guava-disease-dataset-4-types
